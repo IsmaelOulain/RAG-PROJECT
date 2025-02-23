@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]> <html lang="it" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html lang="it" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html lang="it" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html lang="it" class="no-js"> 
+<!--<![endif]-->
+
+
+
+<head>
+    
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />-->
+    <meta name="viewport" content="width=device-width" />
+    
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,200' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/packages/theme_structura/themes/structura/css/base.css" />
+    <link rel="stylesheet" type="text/css" href="/files/cache/css/structura/typography.css" />
+    <link rel="stylesheet" type="text/css" href="/files/cache/css/structura/main.css" />
+    
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/packages/theme_structura/themes/structura/css/ie.css" />
+    <![endif]-->
+    
+    <script src="/packages/theme_structura/themes/structura/js/vendor/custom.modernizr.js"></script>
+    
+    
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Corso di Laurea in Informatica :: Accreditamento - Lista Documenti</title>
+<meta name="description" content="" />
+<meta name="generator" content="concrete5 - 5.6.3.3" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 1062;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://laurea.educ.di.unito.it";
+var CCM_REL = "";
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="/css/ccm.base.css" />
+<script type="text/javascript" src="/concrete/js/jquery.js"></script>
+<script type="text/javascript" src="/concrete/js/ccm.base.js"></script>
+<script type="text/javascript" src="/concrete/js/jquery.form.js"></script>
+<script type="text/javascript" src="/packages/automatic_email_obfuscator/js/email_deobfuscator_vgnr.js"></script>
+<style type="text/css"> 
+#blockStyle4047Main127 {color:#ffffff; font-size:15px; background-repeat:no-repeat; } 
+#blockStyle5012Main128 {color:#ffffff; font-size:15px; background-repeat:no-repeat; } 
+#blockStyle6430Main108 {background-repeat:no-repeat; } 
+#blockStyle4049Main129 {color:#ffffff; font-size:15px; background-repeat:no-repeat; } 
+#blockStyle5058Main132 {color:#ffffff; font-size:15px; background-repeat:no-repeat; } 
+</style>
+<link rel="stylesheet" type="text/css" href="/packages/theme_structura/themes/structura/js/prettyPhoto/css/prettyPhoto.css" />
+<script type="text/javascript" src="/packages/theme_structura/themes/structura/js/prettyPhoto/jquery.prettyPhoto.js"></script>
+<style type="text/css"> 
+#blockStyle5491Main82 {font-size:12px; text-align:right; background-repeat:no-repeat; } 
+</style>
+        
+        
+    	
+        <link rel="stylesheet" type="text/css" media="screen" href="/files/cache/css/structura/css/style_custom.css"/>
+    
+</head>
+
+<body id="page1062" class="">
+
+<!-- Salto navigazione per accessibility -->
+<a class="skiplink" href="#contenuti" accesskey="2" title="vai al contenuto">vai al contenuto</a>
+
+
+	<header id="header" class="fixed">
+        <nav id="nav" class="top-bar">
+            <ul class="title-area">
+                <li class="name">
+                                        <a href="/"><img border="0" class="ccm-image-block" alt="Home page" src="/files/1414/1145/9101/logo_dip_noblur.png" width="282" height="70" /></a>                </li>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+            </ul><!-- .title-area ends -->
+   		  	<section class="top-bar-section">
+            	<ul class="right">
+                    <li class="divider"></li>
+                    <li class="has-form">
+                    	<form id="top-bar-search" class="ccm-search-block-form" role="search" aria-label="Form di ricerca" action="/index.php/search/">
+
+<label for="search">Campo di ricerca</label>
+
+                        	<input type="text" value="" name="query" id="search" class="ccm-search-block-text" placeholder="Search...">
+                    	</form>
+                    </li>
+                </ul>
+
+<div role="navigation" aria-label="Menu di navigazione principale">
+                <ul class="nav right"><li class="has-dropdown"><a href="/index.php/studiare-informatica/" accesskey="P" title="Presentazione" class="has-dropdown">Presentazione</a><ul class="dropdown"><li class=""><a href="/index.php/studiare-informatica/informazioni-generali/" title="Perché studiare Informatica" class="">Perché studiare Informatica</a></li><li class=""><a href="/index.php/studiare-informatica/organizzazione/" title="Organizzazione" class="">Organizzazione</a></li><li class=""><a href="/index.php/studiare-informatica/il-servizio-di-orientamento/" title="Orientamento" class="">Orientamento</a></li><li class=""><a href="/index.php/studiare-informatica/requisiti-e-tarm/" title="Requisiti di Ammissione" class="">Requisiti di Ammissione</a></li><li class="has-dropdown"><a href="/index.php/studiare-informatica/servizi-di-tutorato/" title="Servizi di tutorato" class="has-dropdown">Servizi di tutorato</a><ul class="dropdown"><li class=""><a href="/index.php/studiare-informatica/servizi-di-tutorato/tutorato-individuale/" title="Tutorato individuale" class="">Tutorato individuale</a></li><li class=""><a href="/index.php/studiare-informatica/servizi-di-tutorato/tutorato-matricole/" title="Tutorato matricole" class="">Tutorato matricole</a></li><li class=""><a href="/index.php/studiare-informatica/servizi-di-tutorato/mediatore-digitale/" title="Mediatore Digitale" class="">Mediatore Digitale</a></li><li class=""><a href="/index.php/studiare-informatica/servizi-di-tutorato/progetto-supera/" title="Progetto SUPERA" class="">Progetto SUPERA</a></li></ul></li><li class=""><a href="/index.php/studiare-informatica/trasferimento-e-rinuncia/" title="Passaggi e Trasferimenti" class="">Passaggi e Trasferimenti</a></li><li class=""><a href="/index.php/studiare-informatica/profili-professionali/" title="Profili professionali" class="">Profili professionali</a></li><li class=""><a href="/index.php/studiare-informatica/come-raggiungerci/" title="Dove siamo" class="">Dove siamo</a></li><li class=""><a href="/index.php/studiare-informatica/contatti/" accesskey="C" title="Contatti" class="">Contatti</a></li><li class=""><a href="/index.php/studiare-informatica/scenario-didattico/" title="Scenario didattico" class="">Scenario didattico</a></li></ul></li><li class="has-dropdown"><a href="/index.php/offerta-formativa/" title="Per chi studia con noi" class="has-dropdown">Per chi studia con noi</a><ul class="dropdown"><li class="has-dropdown"><a href="/index.php/offerta-formativa/insegnamenti/" accesskey="I" title="Insegnamenti" class="has-dropdown">Insegnamenti</a><ul class="dropdown"><li class=""><a href="/index.php/offerta-formativa/insegnamenti/elenco-completo/" title="Per Anno Accademico" class="">Per Anno Accademico</a></li><li class=""><a href="/index.php/offerta-formativa/insegnamenti/laurea/" title="Per Anno di Immatricolazione" class="">Per Anno di Immatricolazione</a></li></ul></li><li class="has-dropdown"><a href="/index.php/offerta-formativa/calendario/" accesskey="T" title="Date e Orari" class="has-dropdown">Date e Orari</a><ul class="dropdown"><li class=""><a href="/index.php/offerta-formativa/calendario/orari/" title="Orario lezioni" class="">Orario lezioni</a></li><li class=""><a href="/index.php/offerta-formativa/calendario/periodi-didattici/" title="Periodi didattici" class="">Periodi didattici</a></li><li class=""><a href="/index.php/offerta-formativa/calendario/sessioni-di-laurea/" title="Sessioni di laurea" class="">Sessioni di laurea</a></li></ul></li><li class=""><a href="/index.php/offerta-formativa/docenti/" title="Docenti" class="">Docenti</a></li><li class=""><a href="/index.php/offerta-formativa/guida-dello-studente/" accesskey="G" title="Guida dello Studente" class="">Guida dello Studente</a></li><li class=""><a href="/index.php/offerta-formativa/piano-carriera/" title="Piano carriera" class="">Piano carriera</a></li><li class=""><a href="/index.php/offerta-formativa/esami/" title="Esami" class="">Esami</a></li><li class=""><a href="/index.php/offerta-formativa/stage/" title="Stage" class="">Stage</a></li><li class=""><a href="/index.php/offerta-formativa/laurea-prova-finale/" title="Laurea e Prova finale" class="">Laurea e Prova finale</a></li><li class=""><a href="/index.php/offerta-formativa/aule-e-laboratori/" accesskey="A" title="Aule e Laboratori" class="">Aule e Laboratori</a></li><li class=""><a href="/index.php/offerta-formativa/biblioteca/" title="Biblioteca" class="">Biblioteca</a></li></ul></li><li class="has-dropdown"><a href="/index.php/info-utili/" title="Servizi agli studenti" class="has-dropdown">Servizi agli studenti</a><ul class="dropdown"><li class=""><a href="/index.php/info-utili/piattaforma-e-learning/" title="E-learning" class="">E-learning</a></li><li class=""><a href="/index.php/info-utili/documentazione/" accesskey="M" title="Documenti e Moduli" class="">Documenti e Moduli</a></li><li class=""><a href="/index.php/info-utili/faq/" title="FAQ" class="">FAQ</a></li><li class=""><a href="/index.php/info-utili/servizi-agli-studenti/" accesskey="S" title="Info e Servizi" class="">Info e Servizi</a></li><li class=""><a href="/index.php/info-utili/disabilita-dsa/" accesskey="5" title="Disabilità e DSA" class="">Disabilità e DSA</a></li></ul></li><li class="has-dropdown"><a href="/index.php/news/" accesskey="N" title="News" class="has-dropdown">News</a><ul class="dropdown"><li class=""><a href="/index.php/news/avviso-modalita-remota-esami-e-didattica/" title="Informazioni su Inizio delle Lezioni" class="">Informazioni su Inizio delle Lezioni</a></li><li class=""><a href="/index.php/news/avvisi/" title="Avvisi" class="">Avvisi</a></li><li class=""><a href="/index.php/news/eventi/" title="Eventi" class="">Eventi</a></li></ul></li></ul></div>
+            </section><!-- .top-bar-section ends -->
+        </nav><!-- #nav ends -->
+    </header><!-- #header ends -->
+    
+    
+	    <div id="feature">
+    	<div class="row">
+        	<div class="large-12 columns">
+            	                    <h1 class="fade-in one">Accreditamento - Lista Documenti</h1>
+                                                </div>
+        </div>
+    </div><!-- #feature ends -->
+        
+    <div id="wrapper" class="fade-in three">
+    	<div class="row">
+            <div id="content" class="large-12 columns" role="main">
+                <article class="post">
+                	                	
+<p id="skip_over_navigation"><a id="contenuti"> </a></p>
+<h1>Documenti</h1>
+<h2>Commissione Esami di Laurea (si chiama Tesi fino al 2012-2013)</h2>
+<label for="imposta_anno_accademico">Ricerca per anno accademico</label><form name="ImpostaAnnoAccademico" method="post" action="ListaDocumenti">
+<select name="imposta_anno_accademico" id="imposta_anno_accademico">
+<option value="2024"
+>2024/2025
+<option value="2023"
+>2023/2024
+<option value="2022"
+SELECTED
+>2022/2023
+<option value="2021"
+>2021/2022
+<option value="2020"
+>2020/2021
+<option value="2019"
+>2019/2020
+<option value="2018"
+>2018/2019
+<option value="2017"
+>2017/2018
+<option value="2016"
+>2016/2017
+<option value="2015"
+>2015/2016
+</select>
+<input type="hidden" name="commissione" value="9">
+<input type="submit" name="Button" value="cerca">
+</form>
+<p id="ancore_documenti_commissioni">
+		<a href="#doc_anno" title="documenti anno in corso">Documenti anno accademico in corso</a> <br>
+		<a href="#doc_anni" title="documenti tutti anni accademici">Documenti per tutti gli anni accademici</a>
+		</p>
+<div id="contenitore_documenti"><div class="box_documenti_commissioni">
+<h3 id="doc_anno">Documenti dell'anno accademico 2022/2023</h3><p>Non &egrave; stato trovato nessun documento.</p></div>
+<div class="box_documenti_commissioni">
+<h3 id="doc_anni">Documenti valevoli per tutti gli anni accademici</h3><div class="dettagli_documenti"><strong>Documento</strong>: Regolamento prova finale Laurea magistrale DM509, DM270 e vecchi ordinamenti pre-riforme - in uso (approvato nel CCL/CCLM del 7 giugno 2021)<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=1922&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Clausole di riservatezza<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=1860&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Regolamento prova finale Laurea triennale DM509 e DM270 in uso (approvato nel CCL/CCLM del 17 settembre 2020)<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=1859&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Regolamento prova finale Diploma Universitario (approvato nel CCL/CCLM del 17 settembre 2020)<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=1857&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Indicazioni di supporto per la domanda di laurea<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=753&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Norme RI-LAUREA quinquennale e quadriennale<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=469&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Norme RI-LAUREA Scienze dell'Informazione<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=468&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+<div class="dettagli_documenti"><strong>Documento</strong>: Calcolo voto di laurea magistrale<br><strong>Stato</strong>: Approvato<br><strong>Visualizza</strong>: <a href="/packages/offerta_formativa/single_pages/accreditamento/consultazione/ScaricaDocumento.php?documento=464&amp;AA=2022" title="scarica documento">scarica il documento</a><hr></div>
+</div></div>
+<p id="ritorno_organigramma"><a href="Funzionigramma" title="torna a elenco commissioni e organi">Torna all'elenco delle Commissioni e degli Organi dei Corsi di Studio</a></p>                </article><!-- .post ends -->
+            </div><!-- #content ends -->
+        </div><!-- #wrapper .row ends -->
+    </div><!-- #wrapper ends -->
+    
+
+	<!--<aside id="callout">
+    	<div class="row">
+        	<div class="large-12 columns">
+            	            </div>
+        </div>
+    </aside>-->
+
+    <footer id="footer">
+    	<div class="row">
+        	<div class="large-3 columns">
+            		<div id="blockStyle4047Main127" class=" ccm-block-styles" >
+<p><strong>UTILITY</strong></p></div><p><strong><a title="Home" accesskey="1" href="http://laurea.educ.di.unito.it/">HOME</a></strong><br /> <br /><a class="external_link" title="[link esterno] e-learning" href="http://informatica.i-learn.unito.it/">E-learning</a> <br /> <a title="FAQ" accesskey="Q" href="http://laurea.educ.di.unito.it/index.php/faq/">FAQ</a> <br /><a title="Foreign students" href="http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/foreign-students/">Foreign Students</a> <br /> <a class="external_link" title="[link esterno] Helpdesk" href="https://www.educ.di.unito.it/helpdesk">Helpdesk</a> <br /><a class="external_link" title="[link esterno alla versione precedente del sito] Intranet" accesskey="R" href="https://www.educ.di.unito.it/">Intranet</a> <br /><a class="external_link" title="[link esterno] Laurea Magistrale in Informatica" href="http://magistrale.educ.di.unito.it/">Laurea Magistrale in Informatica</a> <br /> <a title="Mappa del sito" accesskey="3" href="/index.php?cID=226">Mappa del sito</a><br /> <a title="Search" accesskey="4" href="http://laurea.educ.di.unito.it/index.php/search/">Search</a> <br /> <a title="studenti disabili" href="http://laurea.educ.di.unito.it/index.php/info-utili/studenti-disabili/">Studenti disabili</a> <br /><a title="Qualità" href="http://laurea.educ.di.unito.it/index.php/sistema-ava/">Qualità</a></p>            </div>
+            <div class="large-3 columns">
+            		<div id="blockStyle5012Main128" class=" ccm-block-styles" >
+<p><strong>STRUTTURE DI RIFERIMENTO</strong></p></div>	<div id="blockStyle6430Main108" class=" ccm-block-styles" >
+<p><span style="font-size: small;"><strong><a class="external_link" title="[link esterno] Università degli Studi di Torino" href="http://www.unito.it/">Università degli Studi di Torino</a></strong></span> <br /> <span style="font-size: small;"><strong><a class="external_link" title="[link esterno] Scuola di Scienze della Natura" href="http://di.unito.it/scuola">Scuola di Scienze della Natura</a></strong></span> <span style="font-size: medium;"><strong> <br /><br /> <a class="external_link" title="[link esterno] Dipartimento di Informatica" href="http://informatica.unito.it/do/home.pl">Dipartimento di Informatica</a></strong></span></p>
+<p>Corso Svizzera 185, <span>Torino, Italy </span> <br /> (ingresso da Via Pessinetto 12)</p>
+<div class="float_icon"><img src="/files/7613/7102/7290/pin.png" alt="" width="16" height="16" /></div>
+<p><a class="external_link" style="font-family: inherit; font-size: 1em; line-height: 1.6;" title="[link esterno] Dipartimento di Informatica su Google Maps" href="http://goo.gl/maps/p8mNA"> Mappa</a></p>
+<div class="float_icon"><img src="/files/3413/7102/6829/phone.png" alt="" width="5" height="16" /></div>
+<p>Centralino: <span>+39 011 670 67 11 </span></p>
+<div class="float_icon"><img src="/files/7313/7102/6588/mail.png" alt="" width="16" height="12" /></div>
+<p>Email: <span><a title="mail corsi di studio in informatica" class="obfuscated_link" href="%23KEEP%23LOOKING%23cvjZIu8%40Y6wxWbolEnXTMzNmCDL0%5D%23%5BJhNM9fi2FiV6%40DhMDPESFl5e0C3t"><span class="obfuscated_link_text">hn0Tdy8LHY9FuQaPwUgMp@moDcW7]#[OZfGTjiD.@jPX3T1v7NLixTg1bD.</span></a></span></p>
+<div class="float_icon"><img src="/files/7313/7102/6588/mail.png" alt="" width="16" height="12" /></div>
+<p>Redazione Web: <br /><span><a title="mail redazione web" class="obfuscated_link" href="%23KEEP%23LOOKING%23hn0Tdy8LHY9FuQaPwUgMp%40mo%5D%23%5BXQd3YbjVwA2st3HOpGNEc9Tg"><span class="obfuscated_link_text">hn0Tdy8LHY9FuQaPwUgMp@mo]#[XQd3YbjVwA2st3HOpGNEc9Tg</span></a></span></p></div>            </div>
+            <div class="large-3 columns">
+            		<div id="blockStyle4049Main129" class=" ccm-block-styles" >
+<p><strong>SOCIAL</strong></p></div><div class="float_icon" style="text-align: center;"><a title="[link esterno] Pagina ufficiale su Facebook" href="https://www.facebook.com/diunito"><img src="/files/cache/3a164c1c997c7f222481bdee2e39dd31_f28.png" alt="" width="43" height="43" /></a><br />  diunito</div>
+<div class="float_icon" style="text-align: center;"><a title="[link esterno] Profilo ufficiale su Twitter" href="https://twitter.com/diunito"><img src="/files/cache/4a2587648ff230af0546ee5d6bf9dd3c_f30.png" alt="" width="43" height="43" /></a><br />@diunito</div>
+<div class="float_icon" style="text-align: center;"><a title="[link esterno] Profilo ufficiale su Google Plus" href="https://plus.google.com/115965511799739795059/posts"><img src="/files/cache/334519b016cd5bc0fd7d46ab7c405058_f159.png" alt="" width="43" height="43" /></a><br />+diunito</div>
+<div class="float_icon"><a title="[link esterno] Canale ufficiale su Youtube" href="http://www.youtube.com/user/diunito"><img style="display: block; margin-left: auto; margin-right: auto;" src="/files/cache/3a222aea907b861b3a1e6741626c529e_f90.png" alt="" width="43" height="43" /></a><br />diunito</div>
+<div class="float_icon"><a title="[link esterno] Profilo ufficiale su Instagram" href="http://www.instagram.com/diunito"><img style="display: block; margin-left: auto; margin-right: auto;" src="/files/1414/8526/4906/instagram.png" alt="" width="43" height="43" /></a><br />diunito</div>            </div>
+            <div class="large-3 columns">
+            		<div id="blockStyle5058Main132" class=" ccm-block-styles" >
+<p><strong>CERTIFICAZIONE</strong></p></div><div class="float_icon"><a title="Certificazione di qualità grin laurea triennale" href="http://laurea.educ.di.unito.it/index.php/studiare-informatica/"><img src="/files/9516/5763/5416/BollinoSmall2020.png" alt="BollinoSmall2020.png" width="75" height="91" /></a></div>            </div>
+
+            <div id="copyright" role="contentinfo" class="large-12 columns">
+
+
+
+                <dl class="sub-nav right"></dl>            	<p>&copy; 2013 -  2023 Corso di Laurea in Informatica. 
+<a title="Accessibilità" href="/index.php/accessibilita/" accesskey="0">Accessibilità</a> - 
+<a class="external_link" title="[link esterno] Amministrazione trasparente" href="http://www.unito.it/trasparenza">Amministrazione trasparente</a> -
+<a class="external_link" title="[link esterno] Note legali" href="http://www.unito.it/note-legali">Note legali</a> - 
+<a class="external_link" title="[link esterno] Privacy" href="http://www.unito.it/privacy">Privacy</a>
+<br>
+Università degli Studi di Torino - Via Verdi, 8 - 10124 Torino - P.I. 02099550010 - C.F. 80088230018 - IBAN: IT07N0306909217100000046985
+<br>
+Sito web ottimizzato per visualizzazione su Internet Explorer 10, Mozilla Firefox, Google Chrome, Opera, Safari, Maxthone e dispositivi mobile.
+</p>
+
+
+
+
+			<br><span class="sign-in"><a href="/index.php/login/">Accesso</a>.</span>
+	 
+            </div>
+        </div><!-- #footer .row ends -->
+    </footer><!-- #footer ends -->
+
+
+
+<!-- footer 2 per partnership -->
+
+
+<footer id="partnership_container">
+
+<div class="row">
+
+<div class="large-12 columns">
+
+<div id="partnership">PARTNERSHIP<br><br>
+<div class="float_icon"><a href="http://www.atlantedelleprofessioni.it/" title="[link esterno] atlante delle professioni"><img src="/files/6614/0437/8123/logo_atlante_delle_professioni.png" alt="atlante delle professioni"></a></div>
+<div class="float_icon"><a href="http://www.unito.it/unitoWAR/page/istituzionale/speciali2/Speciali2_idem1" title="[link esterno] unito idem"><img src="/files/3214/0437/8145/idem-logo.png" alt="idem"></a></div> 
+
+<div class="float_icon"><a href="http://www.easyreading.it/" title="[link esterno] easyreading"><img src="/files/2814/1293/9331/easyreading.png" alt="easyreading"></a></div> 
+
+<div class="float_icon"><a href="https://research.nvidia.com/content/university-torino-crc-summary" title="[link esterno] nvidia cuda research center"><img src="/files/5414/1293/9349/nv_cuda_research_center.jpg" alt="nvidia cuda"></a></div> 
+
+
+</div>
+
+
+</div>
+</div>
+
+    </footer>
+
+
+
+    
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://webstats.di.unito.it/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "4"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->    
+    <script src="/packages/theme_structura/themes/structura/js/foundation.min.js"></script>
+    <script src="/packages/theme_structura/themes/structura/js/script.js"></script>
+    
+    <script>
+    	$(document).foundation();
+    </script>
+
+</body>
+</html>
